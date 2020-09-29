@@ -1,4 +1,4 @@
-# CS319 - Group 3J Risk Game Project Repository
+# **CS319 - Group 3J Risk Game Project Repository**
 
 Fall'20 Bilkent University CS319: Object Oriented Software Engineering Course Project
 
