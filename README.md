@@ -24,6 +24,6 @@ Fall'20 Bilkent University CS319: Object Oriented Software Engineering Course Pr
 &nbsp;&nbsp;&nbsp;If a player loses all the regions they own, they will be defeated and knocked out from the game. The last standing player who controls the whole map wins the game.
 
 &nbsp;&nbsp;&nbsp;According to the progress of making the project, there are some features we would like to add:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Adding new GUI elements such as rolling of the dice, portrait of the hacker organizations, or different visual characteristics for the players’ main hacker.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Battle animations.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Soundtracks and sound effects.
+  - Adding new GUI elements such as rolling of the dice, portrait of the hacker organizations, or different visual characteristics for the players’ main hacker.
+  - Battle animations.
+  - Soundtracks and sound effects.
