@@ -6,7 +6,6 @@ Fall'20 Bilkent University CS319: Object Oriented Software Engineering Course Pr
   - Ahmet Ayberk Yılmaz
   - Denizhan Kemeröz
   - Mustafa Tuna Acar
-  - Pelin Laçin Önen
   - Süleyman Semih Demir
   
 # Project Description
